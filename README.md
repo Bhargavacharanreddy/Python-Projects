@@ -9,5 +9,8 @@ various Python Projects
 2. Guess the Number
     main program - guessTheNumber.py ( contains the code for guessing the number for the user and also for the computer )
 
+3. Rock Paper Scissors
+
+    main program - rock_paper_scissors.py 
 
 
