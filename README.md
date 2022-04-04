@@ -7,4 +7,7 @@ various Python Projects
     sample program - madlibs.py
 
 2. Guess the Number
+    main program - guessTheNumber.py ( contains the code for guessing the number for the user and also for the computer)
+
+
 
