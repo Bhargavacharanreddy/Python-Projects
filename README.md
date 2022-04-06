@@ -13,4 +13,9 @@ various Python Projects
 
     main program - rock_paper_scissors.py 
 
+4. Hangman Word Search Game project
+
+    main program - hangman.py
+    other modules - words.py
+
 
